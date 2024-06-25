@@ -10,7 +10,7 @@ describe('FeedbackComponent', () => {
     await TestBed.configureTestingModule({
       imports: [FeedbackComponent]
     })
-    .compileComponents();
+      .compileComponents();
 
     fixture = TestBed.createComponent(FeedbackComponent);
     component = fixture.componentInstance;
@@ -20,4 +20,18 @@ describe('FeedbackComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  /* 
+  
+Gmail Password :- (d@$han)@#12&(si)%@ 
+
+Tracker  Username:  darshansidev@gmail.com
+
+Tracker Password:  (d@$han)@#12&(si)%
+
+Skype  Username: darshansidev@gmail.com
+
+Skype Password: (d@$han)@#12&(si)%
+
+  */
 });
