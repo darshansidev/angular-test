@@ -25,13 +25,5 @@ describe('FeedbackComponent', () => {
   
 Gmail Password :- (d@$han)@#12&(si)%@ 
 
-Tracker  Username:  darshansidev@gmail.com
-
-Tracker Password:  (d@$han)@#12&(si)%
-
-Skype  Username: darshansidev@gmail.com
-
-Skype Password: (d@$han)@#12&(si)%
-
   */
 });
